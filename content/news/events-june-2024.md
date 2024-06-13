@@ -48,7 +48,7 @@ The Wiki Night has been going great! Last time, we were connecting isolated page
 
 ### Demonstration of Resilient Infrastructure Through Open Sessions (aka Infrastructure Night) - Tuesday June 25th @ 20:00 - 22:00
 
-One system administrator is too little for a big thing like Foulab. You can be a system administrator, too! Join **eigma** and a few other interested parties as we train green rookies and pros alike to become hardened hackerspace maintaners.
+One system administrator is too little for a big thing like Foulab. You can be a system administrator, too! Join **eigma** and a few other interested parties as we train green rookies and pros alike to become hardened hackerspace maintainers.
 
 <br/>
 
