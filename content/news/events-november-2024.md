@@ -1,5 +1,8 @@
 +++
 headline = "ARTICLE"
+title = "Foulab Events - November 2024"
+lastmod = "2024-10-31 21:52:33-0400"
+author_name = "kryma"
 +++
 
 {{< centered-image src="events-november-2024.jpg" width="384">}}
