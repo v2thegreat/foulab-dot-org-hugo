@@ -1,5 +1,8 @@
 +++
 headline = "ARTICLE"
+title = "Foulab Events - November 2024"
+lastmod = "2024-10-31 21:52:33-0400"
+author_name = "kryma"
 +++
 
 {{< centered-image src="events-november-2024.jpg" width="384">}}
@@ -69,7 +72,7 @@ This public night will have a special time slot for an organizational meeting. J
 <br/>
 
 
-### Welding curious? - Saturday November 23rd @ 13:00 - 16:00
+### Welding curious? - Saturday November 23rd @ 13:00 - 17:00
 
 Always wanted to try arc welding, but the money and time commitment held you back? Worried about blinding yourself or burning the house down? Come on down and give it a try with us! We will thoroughly discuss welding safety, and explain the different arc welding processes. You'll get to join weld some metal together and make a small project!
 
