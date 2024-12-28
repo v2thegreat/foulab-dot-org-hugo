@@ -1296,5 +1296,67 @@ DESCRIPTION:Data Science in Python
 LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
 END:VEVENT
 
+X-EVENTMONTH:JAN2025
+
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:d31b14f8-5d4c-440f-bf7a-d11c5b6e7547
+DTSTART;TZID="America/New_York":20250108T190000
+DTEND;TZID="America/New_York":20250108T220000
+SUMMARY:Wednesday Mesh Evening
+URL:https://foulab.org
+DESCRIPTION:Wednesday Mesh Evening
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:2ae6076c-d041-49d4-9fb0-a0c5a2934b38
+DTSTART;TZID="America/New_York":20250109T200000
+DTEND;TZID="America/New_York":20250109T213000
+SUMMARY:Workshop Reorganization Planning!
+URL:https://foulab.org
+DESCRIPTION:Workshop Reorganization Planning!
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:a999fe8e-1ee1-411c-910a-ed536625a1b1
+DTSTART;TZID="America/New_York":20250121T200000
+DTEND;TZID="America/New_York":20250121T220000
+SUMMARY:Open Gaming Night
+URL:https://foulab.org
+DESCRIPTION:Open Gaming Night
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:96ec337e-302f-4c31-95e0-1c7f99036400
+DTSTART;TZID="America/New_York":20250123T200000
+DTEND;TZID="America/New_York":20250123T213000
+SUMMARY:FOULAB Monthly Meeting
+URL:https://foulab.org
+DESCRIPTION:FOULAB Monthly Meeting
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:51f7cb0c-7a20-4ca7-b988-0c3836c06e68
+DTSTART;TZID="America/New_York":20250128T190000
+DTEND;TZID="America/New_York":20250128T220000
+SUMMARY:Project Night
+URL:https://foulab.org
+DESCRIPTION:Project Night
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20241231T060010Z
+UID:4f7dbb43-5cbb-40d6-bad3-4250cf4d9954
+DTSTART;TZID="America/New_York":20250126T160000
+DTEND;TZID="America/New_York":20250126T210000
+SUMMARY:Killed by Dice Presents: Three Sixteen V
+URL:https://foulab.org
+DESCRIPTION:Killed by Dice Presents: Three Sixteen V
+LOCATION:Foulab\, 999 Rue du Collège\, Montréal\, QC H4C 2S2\, Canada
+END:VEVENT
 
 END:VCALENDAR
